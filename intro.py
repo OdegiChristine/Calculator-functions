@@ -1,3 +1,5 @@
+# ODEGI CHRISTINE
+# SCT211-0093/2022
 # simple calculator
 name = input("Enter name: ")
 print(f"Hello, {name}")
