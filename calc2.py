@@ -1,3 +1,6 @@
+# Name : ODEGI CHRISTINE
+# Reg no : SCT211-0093/2022
+
 name = input("Enter name: ")
 print(f"Hello, {name}")
 
