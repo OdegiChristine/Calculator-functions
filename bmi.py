@@ -1,3 +1,6 @@
+# Name : ODEGI CHRISTINE
+# Reg no : SCT211-0093/2022
+
 mass = float(input("Enter mass in kilograms: "))
 height = float(input("Enter height in metres: "))
 
