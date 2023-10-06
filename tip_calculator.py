@@ -1,3 +1,6 @@
+# Name : ODEGI CHRISTINE
+# Reg no : SCT211-0093/2022
+
 bill = int(input("Enter bill: "))
 customers = int(input("Enter number of people splitting the bill: "))
 
