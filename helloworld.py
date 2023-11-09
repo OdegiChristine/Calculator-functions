@@ -24,8 +24,10 @@ difference=int(number1)-int(number2)
 print(difference)
 product=int(number1)*int(number2)
 print(product)
-quotient=int(number1)/int(number2)
+quotient=int(number1)//int(number2)
 print(quotient)
 #modulo operators
 #6%3 gives the remainder when 6 is divided by 3
+listOfFoods = input("Enter your favorite foods separated by a space: \n").split()
+print(listOfFoods)
 
