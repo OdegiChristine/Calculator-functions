@@ -12,4 +12,3 @@ product = int(num1) * int(num2)
 print(f"And their product is: {product}")
 rem = int(num1) % int(num2)
 print(f"The remainder when num1 is divided by num2 is: {rem}")
-
